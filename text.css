@@ -1,0 +1,160 @@
+.vide {
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    width: 300px;
+    line-height: 25px;
+    margin-bottom: 5px;
+}
+
+.vieu {
+    font-family: Roboto;
+    font-size: 14px;
+    color: gray;
+    margin-top: 0;
+    margin-bottom: 20px;
+
+}
+
+.mar {
+    font-family: Roboto;
+    font-size: 14px;
+    color: gray;
+    margin-bottom: 20px;
+}
+
+.last {
+    font-family: Roboto;
+    font-size: 14px;
+    color: gray;
+    width: 300px;
+    line-height: 21px;
+    margin-top: 0;
+    margin-bottom: 100px;
+}
+
+.google {
+    margin-bottom: 20px;
+    font-size: 20px;
+    background-color: rgb(226, 3, 3);
+    color: white;
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.span {
+    cursor: pointer;
+}
+
+.span:hover {
+    text-decoration: underline;
+}
+
+.container {
+    font-family: roboto;
+}
+
+.one {
+    font-size: 15px;
+    color: rgb(244, 159, 0);
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.two {
+    font-size: 20px;
+    color: rgb(53, 53, 53);
+    text-align: center;
+    font-weight: bold;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.three {
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.four {
+    color: gray;
+    text-align: center;
+    font-size: 15px;
+    margin-top: 5px;
+}
+
+.five {
+    color: white;
+    background-color: blue;
+    border-radius: 20px;
+    cursor: pointer;
+    border: none;
+    text-align: center;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    padding-top: 10px;
+    align-items: center;
+}
+
+.book {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.six {
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+.spa {
+    font-size: 15px;
+    color: gray;
+    margin-top: 5px;
+}
+
+.seven {
+    color: green;
+    margin-top: 5px;
+}
+
+.seveno {
+    color: red;
+}
+
+.eight {
+    color: gray;
+}
+
+.nine {
+    font-weight: bold;
+}
+
+.nino {
+    color: gray;
+
+}
+
+.ten {
+    width: 350px;
+    margin-top: 10px;
+}
+
+.eleven {
+    margin-bottom: 10px;
+}
+
+.eleveno {
+    color: blue;
+}
